@@ -1,4 +1,4 @@
-Home Screen
+Home Screen (tutorial youtube)
 ![Screenshot_1707059311](https://github.com/Febry3/youtube_clone/assets/121351049/8fe77454-2db7-49f6-a0ac-6f9f6591cc7d)
 
 Ketika video card ditekan
@@ -18,6 +18,8 @@ Profile Screen
 
 Navigasi ke download screen (nekan tombol download yang ada di profile screen)
 ![Screenshot_1707059517](https://github.com/Febry3/youtube_clone/assets/121351049/477c4290-ce6d-45b2-9bb5-5c31505d7304)
+
+
 
 
 
